@@ -14,8 +14,6 @@ Here you can find all the information to develop your first extension: https://g
 
 **Good luck !**
 
-![prueba](https://user-images.githubusercontent.com/22751572/173958151-a88c5c66-5f78-42d4-9a12-4b34bbfb1678.PNG)
-
 [//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
 
    [SceneBuilder]: <https://gluonhq.com/products/scene-builder/>
